@@ -28,5 +28,5 @@ Current supported networks (`<NETWORK_NAME>`):
 - mainnet
 
 ## Tests
-A possible approach to test the protocol, would be to fork ethereum's mainnet at a given block height and look for arbitrage opportunities.  
+A possible approach to test the protocol, would be to fork ethereum's mainnet at a given block height and look for arbitrage opportunities and write mock contracts to simulate the behaviour.  
 **TODO**
