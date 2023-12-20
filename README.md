@@ -1,4 +1,4 @@
-# Flashloan Arbitrage (Avara Craft Challenge)
+# Flashloan Arbitrage
 
 This project consists of a helper contract that allows anyone to perform atomic flashloans using Aave Protocol and perform arbitrage swaps using 1inch DEX aggregator (to find optimal prices across various DEXes) in exchange for a small fee over the arbitrage profit.
 
